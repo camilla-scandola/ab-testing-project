@@ -28,7 +28,7 @@ We tested the following hypotheses:
 
 ## Dashboard
 
-**Tableau**: <a href="https://public.tableau.com/views/ABtestingfinalproject/DashboardABtesting?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">A/B Testing Dashboard</a>
+**Tableau**: <a href="https://public.tableau.com/views/ABtestingfinalproject/DashboardABtesting?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">A/B Test Dashboard</a>
 
 <p align="center">
   <img src="images/hypotheses.png" width="55%" />
