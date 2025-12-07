@@ -23,5 +23,6 @@
 **Graphic representation**:
 
 <p align="center">
-  <img src="new-york-bubble-map-viz.png" alt="..." width="600">
+  <img src="images/hypotheses.png" width="32%" />
+  <img src="images/hypotheses-2.png" width="32%" />
 </p>
