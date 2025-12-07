@@ -3,6 +3,8 @@
 <a href="https://prezi.com/view/LHHavwiSJLts2NLWv4dH/?referral_token=w0QQB7lnB3FN" style="color:#5CE1E6;" target="_blank">A/B Test Analysis Presentation</a>
 
 --- 
+## Overview
+
 
 ## 🔸 Demographic Analysis
 
@@ -24,9 +26,9 @@ We tested the following hypotheses:
 3. Does client tenure impact conversion among clients with invalid step sequences?
 4. How does conversion change with invalid step count across Control and Test variants?
 
-## 📊 Dashboard
+## Dashboard
 
-**Graphic representation**:
+**Tableau**: <a href="https://public.tableau.com/views/ABtestingfinalproject/Dashboard3?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">A/B Testing Dashboard</a>
 
 <p align="center">
   <img src="images/hypotheses.png" width="55%" />
