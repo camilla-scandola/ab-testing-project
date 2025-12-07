@@ -23,6 +23,6 @@
 **Graphic representation**:
 
 <p align="center">
-  <img src="images/hypotheses.png" width="32%" />
-  <img src="images/hypotheses-2.png" width="32%" />
+  <img src="images/hypotheses.png" width="50%" />
+  <img src="images/hypotheses-2.png" width="30%" />
 </p>
