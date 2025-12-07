@@ -13,6 +13,12 @@
 
 ## 🔹 Step Errors Analysis
 
+This analysis focuses on understanding user behavior among visitors who **did not follow the expected funnel sequence**:
+
+> **start → step_1 → step_2 → step_3 → confirm**
+
+We tested the following hypotheses:
+
 1. Does the frequency of step errors differ between clients in the Control versus Test variants?
 2. For users who follow an invalid step sequence, is there a significant difference in conversion between Test and Control?
 3. Does client tenure impact conversion among clients with invalid step sequences?
