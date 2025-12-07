@@ -24,5 +24,5 @@
 
 <p align="center">
   <img src="images/hypotheses.png" width="50%" />
-  <img src="images/hypotheses-2.png" width="30%" />
+  <img src="images/hypotheses-2.png" width="35%" />
 </p>
