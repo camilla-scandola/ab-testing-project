@@ -17,7 +17,7 @@ For each hypothesis, we calculated:
 
 
 ## 🔸 Demographic Analysis
-This analysis explores how customer demographics and the interaction timing with the design influence conversion rates. Specifically, we analyzed age, high-value customer segments, and time spent on each step of the flow. Based on these factors, we tested the following hypotheses:
+This analysis explores how customer demographics and interaction timing with the design influence conversion rates. Specifically, we analyzed age, high-value customer segments, and time spent on each step of the flow. Based on these factors, we tested the following hypotheses:
 
 1. Did the Test variation significantly impact the conversion rate?
 2. Does age influence the conversion difference between Test and Control?
